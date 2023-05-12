@@ -3,15 +3,18 @@
 This repository contains a collection of Power BI projects that I developed. These projects are designed to provide valuable insights and visualizations for various data sources and business domains.
 
 ** Table of Contents**
+
 -  Introduction
 -  Getting Started
 -  Folder Structure
 
 
 **Introduction**
+
 Power BI is a powerful business intelligence tool that allows users to connect to various data sources, transform data, and create interactive visualizations and reports. This repository serves as a central hub for all Power BI projects developed by our team.
 
 **Getting Started**
+
 To get started with a Power BI project in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
@@ -23,12 +26,16 @@ To get started with a Power BI project in this repository, follow these steps:
 
 
 **Folder Structure**
+
 The folder structure of this repository is organized as follows:
+
 ├── Project 1
 │   ├── Main.pbix
 │   ├── Data
 │   ├── Images
 │   └── Documentation
+
+
 ├── Project 2
 │   ├── Main.pbix
 │   ├── Data
